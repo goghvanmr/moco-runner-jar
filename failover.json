@@ -1,0 +1,70 @@
+[ {
+  "request" : {
+    "version" : "HTTP/1.1",
+    "content" : null,
+    "headers" : {
+      "Accept-Language" : "en-US,en;q=0.8",
+      "Cookie" : "JSESSIONID=3puwfi9qvocs1el5cg3g6u1z",
+      "Host" : "localhost:8888",
+      "Content-Length" : "0",
+      "Accept-Encoding" : "gzip,deflate,sdch",
+      "User-Agent" : "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.71 Safari/537.36",
+      "Accept" : "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "Connection" : "keep-alive",
+      "Cache-Control" : "max-age=0"
+    },
+    "queries" : { },
+    "method" : "GET"
+  },
+  "response" : {
+    "version" : "HTTP/1.1",
+    "content" : "<html>\n<meta http-equiv=\"refresh\" content=\"0;url=http://www.baidu.com/\">\n</html>\n",
+    "headers" : {
+      "ETag" : "\"51-4b4c7d90\"",
+      "Date" : "Thu, 01 Aug 2013 08:47:14 GMT",
+      "Content-Length" : "81",
+      "Expires" : "Fri, 02 Aug 2013 08:47:14 GMT",
+      "Last-Modified" : "Tue, 12 Jan 2010 13:48:00 GMT",
+      "Content-Type" : "text/html",
+      "Connection" : "Keep-Alive",
+      "Accept-Ranges" : "bytes",
+      "Server" : "Apache",
+      "Cache-Control" : "max-age=86400"
+    },
+    "statusCode" : 200
+  }
+}, {
+  "request" : {
+    "version" : "HTTP/1.1",
+    "content" : null,
+    "headers" : {
+      "Accept-Language" : "en-US,en;q=0.8",
+      "Host" : "localhost:8888",
+      "Content-Length" : "0",
+      "Accept-Encoding" : "gzip,deflate,sdch",
+      "User-Agent" : "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.71 Safari/537.36",
+      "Accept" : "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "Connection" : "keep-alive",
+      "Cache-Control" : "max-age=0"
+    },
+    "queries" : { },
+    "method" : "GET"
+  },
+  "response" : {
+    "version" : "HTTP/1.1",
+    "content" : "<html>\n<meta http-equiv=\"refresh\" content=\"0;url=http://www.baidu.com/\">\n</html>\n",
+    "headers" : {
+      "ETag" : "\"51-4b4c7d90\"",
+      "Date" : "Thu, 01 Aug 2013 08:48:05 GMT",
+      "Content-Length" : "81",
+      "Expires" : "Fri, 02 Aug 2013 08:48:05 GMT",
+      "Last-Modified" : "Tue, 12 Jan 2010 13:48:00 GMT",
+      "Content-Type" : "text/html",
+      "Connection" : "Keep-Alive",
+      "Accept-Ranges" : "bytes",
+      "Server" : "Apache",
+      "Cache-Control" : "max-age=86400"
+    },
+    "statusCode" : 200
+  }
+} ]

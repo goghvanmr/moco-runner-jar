@@ -1,0 +1,16 @@
+[
+{
+  "request" :
+    {
+      "uri" : "/hello"
+    },
+  "response" :
+    {
+      "proxy" :
+        {
+        "url": "http://baidu.com",
+        "failover": "failover.json"
+        }
+    }
+}
+]
